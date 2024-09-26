@@ -1,12 +1,3 @@
----
-name: RPA Code Review Template
-about: RPA Code Review Template
-title: RPA Code Review
-labels: ''
-assignees: ''
-
----
-
 **RPA Code Review Checklist**
 - [ ] The code works per its intended function.
 - [ ] Variables are correctly named.
