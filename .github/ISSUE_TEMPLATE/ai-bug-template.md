@@ -1,3 +1,10 @@
+---
+name: 'AI Project Bug Report'
+about: 'Report an issue related to AI project'
+title: '[Bug] <Brief description of the issue>'
+labels: 'bug'
+assignees: []
+---
 ## Issue  
 Describe the problem concisely. Explain what is happening and why it is unexpected.
 
